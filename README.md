@@ -1,1 +1,2 @@
-# manynumbers_psychopyinstallers
+# ManyNumbers Psychopy Installers
+#
