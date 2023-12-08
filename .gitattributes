@@ -1,1 +1,2 @@
 StandalonePsychoPy-2022.2.5-win64.exe filter=lfs diff=lfs merge=lfs -text
+StandalonePsychoPy-2022.2.5-macOS.dmg filter=lfs diff=lfs merge=lfs -text
